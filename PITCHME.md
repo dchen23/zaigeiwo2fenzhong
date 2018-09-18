@@ -1,8 +1,8 @@
 @snap[west]
 <br><br>
-<h3> Rokid Group Sharing<h3>
+<h3>@color[orange](Rokid Group Sharing)<h3>
 <br><br>
-<p><i>Dingyi Chen<i><p>
+<h8><i>Dingyi Chen<i><h8>
 @snapend
 
 ---
