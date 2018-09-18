@@ -58,8 +58,13 @@
 ---
 @transition[slide-in]
 
-@fa[android fa-5x fa-spin fa-lime]
+@snap[west span-60]
+@fa[android fa-7x fa-spin fa-lime]
 @fa[linux fa-huge]
+@snapend
+
+@snap[south-east span-40]
 @quote[juejue]
+@snapend
 
 
