@@ -40,7 +40,7 @@
 @snapend
 
 ---
-#### @color[orange](juejue)
+### @color[orange](juejue)
 
 - jiba |
 - jiba |
@@ -49,6 +49,6 @@
 ---
 @transition[slide-in]
 
-@quote[juejue]
+## @quote[juejue]
 
 
