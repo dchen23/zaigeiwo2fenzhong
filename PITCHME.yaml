@@ -1,0 +1,19 @@
+# PPT setting config file
+
+theme : night
+
+footnote : ""© 2018 Rokid, Inc. Oh, I see you -3- "
+
+highlight : monokai
+
+code-line-numbers : true
+
+logo : assets/img/logo/footer-rokid-logo.png
+
+logo-position : top-right
+
+transition : fade
+
+published : true
+
+control-layout : edges
