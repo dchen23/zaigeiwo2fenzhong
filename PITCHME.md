@@ -40,6 +40,13 @@
 @snapend
 
 ---
+## @color[orange](juejue)
+
+- jiba
+- jiba
+- jiba
+
+---
 @transition[slide-in]
 
 @quote[juejue]
