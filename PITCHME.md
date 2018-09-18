@@ -1,9 +1,10 @@
 @snap[north-west]
-<br><br><br>
-<h3>@color[orange](Rokid Group Sharing)<h3>
+<br><br><br><br>
+<h2>@color[orange](Rokid Group Sharing)<h2>
 @snapend
 
 @snap[west]
+<br><br>
 <i>Dingyi Chen<i>
 @snapend
 
@@ -25,7 +26,7 @@
 
 @snap[north-west]
 <br><br>
-<h4>The Agenda<h4>
+<h4>@color[orange](The Agenda)<h4>
 @snapend
 
 @snap[west span-60]
