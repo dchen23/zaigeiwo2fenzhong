@@ -6,7 +6,6 @@
 @snapend
 
 ---
-@transition[fade-in slide-out]
 
 @snap[north-west]
 <br><br>
@@ -21,7 +20,6 @@
 @snapend
 
 ---
-@transition[slide-in fade-out]
 
 @snap[north-west]
 <br><br>
