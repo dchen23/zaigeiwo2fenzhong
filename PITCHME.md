@@ -49,6 +49,6 @@
 ---
 @transition[slide-in]
 
-## @quote[juejue]
+@quote[juejue]
 
 
