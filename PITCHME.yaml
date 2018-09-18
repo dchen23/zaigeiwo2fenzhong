@@ -1,3 +1,4 @@
+# gitpitch setting file
 
 theme : night
 
@@ -7,7 +8,7 @@ highlight : monokai
 
 code-line-numbers : true
 
-logo : assets/img/logo/footer-rokid-logo.png
+logo : archive/img/logo/footer-rokid-logo.png
 
 logo-position : top-right
 
@@ -15,4 +16,4 @@ transition : fade
 
 published : true
 
-control-layout : edges
+controls-layout : edges
