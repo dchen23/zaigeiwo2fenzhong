@@ -59,7 +59,7 @@
 @transition[slide-in]
 
 @fa[android fa-5x fa-spin fa-lime]
-@fa[linux fa-8x fa-peach]
+@fa[linux fa-huge]
 @quote[juejue]
 
 
