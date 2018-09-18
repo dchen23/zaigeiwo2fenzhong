@@ -3,7 +3,9 @@
 <h3>@color[orange](Rokid Group Sharing)<h3>
 @snapend
 
-*Dingyi Chen*
+@snap[west]
+<i>Dingyi Chen<i>
+@snapend
 
 ---
 
