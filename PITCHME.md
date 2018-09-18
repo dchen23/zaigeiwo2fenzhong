@@ -63,8 +63,6 @@
 @fa[linux fa-huge]
 @snapend
 
-@snap[south-east span-40]
 @quote[It's what I do that defines me.](Bruce Wayne)
-@snapend
 
 
