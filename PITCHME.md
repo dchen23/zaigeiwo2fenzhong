@@ -1,13 +1,14 @@
 @snap[west]
-# Rokid Group Sharing
-*Dingyi Chen*
+<h1> Rokid Group Sharing<h1>
+<br>
+<i>Dingyi Chen<i>
 @snapend
 
 ---
 @transition[fade-in slide-out]
 
 @snap[north-west]
-## @color[orange](Outline)
+@color[orange](Outline)
 @snapend
 
 @snap[west span-100]
