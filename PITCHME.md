@@ -64,7 +64,7 @@
 @snapend
 
 @snap[south-east span-40]
-@quote[juejue]
+@quote["juejue lalalalla "]
 @snapend
 
 
