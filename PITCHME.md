@@ -52,8 +52,8 @@
 ### @color[orange](fuck)
 
 1. jiba | 
-2. jiba |
-3. jiba |
+1. jiba |
+1. jiba |
 
 ---
 @transition[slide-in]
