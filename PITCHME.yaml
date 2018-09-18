@@ -6,7 +6,7 @@ footnote : "© 2018 Rokid, Inc. Oh, I see you -3- "
 
 highlight : monokai
 
-theme-override : assets/css/CONCISE.css
+theme-override : archive/css/CONCISE.css
 
 code-line-numbers : true
 
