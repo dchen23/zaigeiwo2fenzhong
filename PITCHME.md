@@ -1,6 +1,5 @@
 @snap[west]
 # Rokid Group Sharing
-<br><br>
 *Dingyi Chen*
 @snapend
 
