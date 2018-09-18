@@ -65,4 +65,8 @@
 
 @quote[It's what I do that defines me.](Bruce Wayne)
 
+---
+
+@quote[Beware of geeks bearing formulas.]
+
 
