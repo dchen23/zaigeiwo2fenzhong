@@ -1,28 +1,31 @@
 @snap[west]
-<br><br><br>
+<br><br>
 <h3> Rokid Group Sharing<h3>
 <br>
-<h6><i>Dingyi Chen<i><h6>
+<p><i>Dingyi Chen<i><p>
 @snapend
 
 ---
 @transition[fade-in slide-out]
 
 @snap[north-west]
-@color[orange](Outline)
+<br>
+<h4>@color[orange](Outline)<h4>
 @snapend
 
 @snap[west span-100]
-@ul
+@ul[](false)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 @ulend
 @snapend
 
 ---
+@transition[slide-in fade-out]
 
 @snap[north-west]
-The Agenda
+<br>
+<h4>The Agenda<h4>
 @snapend
 
 @snap[south-west span-60]
