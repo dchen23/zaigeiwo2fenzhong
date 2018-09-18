@@ -40,11 +40,20 @@
 @snapend
 
 ---
+
 ### @color[orange](juejue)
 
 - jiba |
 - jiba |
 - jiba |
+
+---
+
+### @color[orange](fuck)
+
+1. jiba | 
+2. jiba |
+3. jiba |
 
 ---
 @transition[slide-in]
