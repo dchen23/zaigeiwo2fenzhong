@@ -64,7 +64,7 @@
 @snapend
 
 @snap[south-east span-40]
-@quote["juejue lalalalla "]
+@quote[It's what I do that defines me.](Bruce Wayne)
 @snapend
 
 
