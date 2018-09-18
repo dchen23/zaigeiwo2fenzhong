@@ -1,9 +1,9 @@
-@snap[west]
-<br><br>
+@snap[north-west]
+<br><br><br>
 <h3>@color[orange](Rokid Group Sharing)<h3>
-<br><br>
-<h8><i>Dingyi Chen<i><h8>
 @snapend
+
+*Dingyi Chen*
 
 ---
 
