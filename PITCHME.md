@@ -58,11 +58,6 @@
 ---
 @transition[slide-in]
 
-@snap[west span-60]
-@fa[android fa-7x fa-spin fa-lime]
-@fa[linux fa-huge]
-@snapend
-
 @quote[It's what I do that defines me.](Bruce Wayne)
 
 
