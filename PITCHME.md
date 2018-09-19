@@ -45,7 +45,7 @@ Dingyi Chen
 
 ---
 
-## @color[orange](Click Me @fa[hand-o-right fa-8x fa-orange])
+## @color[orange](Achievement Display @fa[hand-o-right fa-8x fa-orange])
 
 ---
 
