@@ -63,6 +63,7 @@
 @snapend
 
 @snap[north-east span-35]
+<br>
 @quote[Android的功夫，在Android之外。](知乎答主)
 @snapend
 
