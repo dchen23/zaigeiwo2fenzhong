@@ -32,6 +32,7 @@
 @snapend
 
 @snap[west span-100]
+<br>
 @ul[spaced-list-items]
 - The Benefits of using Docker
   + Easily Setup and Backup
