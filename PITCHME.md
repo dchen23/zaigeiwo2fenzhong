@@ -90,7 +90,20 @@ http://gitus.rokid-inc.com/
 
 ---
 
-## @color[orange](Future Work)
+### @color[orange](Future Work)
+
+- System UI
+  - Notification
+  - Dialog ...
+- System Apps
+  - Launcher
+  - Settings
+    - Bluetooth
+    - Wifi 
+    - cast ...
+- ~DevOps~
+  - CI system
+  - Slack Integration
 
 
 ---
