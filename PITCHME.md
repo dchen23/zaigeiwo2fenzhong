@@ -42,7 +42,7 @@ Dingyi Chen
 
 @fa[thumbs-o-up fa-1x] Review Panel
 
-@fa[thumbs-o-down fa-1x] Manually Backup
+@fa[thumbs-down fa-1x] Manually Backup
 
 @fa[thumbs-o-down fa-1x] Documents to be perfected
 
