@@ -56,7 +56,6 @@
 1. jiba |
 
 ---
-@transition[slide-in]
 
 @snap[west span-55]
 @fa[linux fa-huge]
@@ -68,6 +67,7 @@
 @snapend
 
 ---
+@transition[slide-in]
 
 # @color[orange](Thank you @-@)
 
