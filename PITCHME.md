@@ -167,6 +167,7 @@ com
 @[6-7](implement battery view)
 
 ---
+
 ### @color[orange](example)
 
 ``` java
@@ -223,6 +224,14 @@ protected void onDraw(Canvas canvas) {
     }
 }
 ```
+
+---
+
+### @color[orange](Aspects to be Improved @fa[line-chart fa-6x fa-orange])
+
+- Personal Time Management
+
+- More Peer or Team Project with Other Engineer
 
 ---
 
