@@ -28,20 +28,13 @@ Dingyi Chen
   
 ---
 
-@snap[north-west]
-<br><br>
-<h4>@color[orange](Project: Phabricator)<h4>
-@snapend
+### @color[orange](Project: Phabricator)
 
-@snap[west span-100]
-<br>
-@ul[spaced-list-items](false)
 **Status:**
-  - The Benefits of using Docker
+- The Benefits of using Docker
 
-  - The Benefits of using Phabricator
-@ulend
-@snapend
+- The Benefits of using Phabricator
+
 
 ---
 
