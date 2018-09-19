@@ -147,7 +147,7 @@ Dingyi Chen
 
 ---
 
-### @color[orange](example)
+### @color[orange](Case Study)
 
 ```
 com
@@ -228,9 +228,34 @@ protected void onDraw(Canvas canvas) {
 
 ### @color[orange](Future Work)
 
+@snap[north-west span-30]	
 - System UI
+  - Notification	
+  - Dialog ... 	
+@snapend
+
+---
+
+### @color[orange](Future Work)
+
+@snap[north-west span-30]	
 - System Apps
-- *DevOps*
+  - Launcher	
+  - Settings	
+    - Bluetooth	
+    - Wifi 	
+    - cast ...	
+@snapend
+
+---
+
+### @color[orange](Future Work)
+
+@snap[north-east span-30]	
+- DevOps
+  - CI system	
+  - Slack Integration	
+@snapend
 
 ---
 
