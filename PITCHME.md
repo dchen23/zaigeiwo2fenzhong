@@ -45,7 +45,11 @@ Dingyi Chen
 
 ---
 
-### @color[orange](Click Me @fa[hand-o-down fa-7x fa-orange])
+## @color[orange](Click Me @fa[hand-o-right fa-8x fa-orange])
+
+---
+
+### @color[orange](Click Me @fa[hand-o-down fa-6x fa-orange])
 
 http://gitus.rokid-inc.com/
 
@@ -177,7 +181,7 @@ protected void onDraw(Canvas canvas) {
 ---
 @transition[slide-in]
 
-## @color[orange](@fa[android fa-1x fa-spin fa-lime]Thank you @fa[android fa-1x fa-spin fa-lime])
+## @color[orange](@fa[android fa-1x fa-spin fa-lime] Thank you @fa[android fa-1x fa-spin fa-lime])
 
 #### Q & A
 
