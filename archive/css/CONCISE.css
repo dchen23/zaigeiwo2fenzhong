@@ -12,3 +12,13 @@ span.fa-byline { color : gray; }
 .li-nested-item {
     list-style-type: square !important;
 }
+
+.reveal ul.spaced-list-items li {
+   font-size: 0.8em;
+   margin:0 0 6px 0;
+}
+
+.roman {
+    list-style-type: upper-roman !important;
+    list-style-position: inside !important;
+}
