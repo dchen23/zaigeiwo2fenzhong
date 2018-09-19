@@ -42,15 +42,15 @@ Dingyi Chen
 
 @fa[thumbs-up fa-1x] Review Panel
 
-@fa[thumbs-down fa-1x] Manually Backup
+@fa[thumbs-o-down fa-1x] Manually Backup
 
-@fa[thumbs-down fa-1x] Documents to be perfected
+@fa[thumbs-o-down fa-1x] Documents to be perfected
 
 ---
 
 ### @color[orange](Phabricator: impact)
 
-@fa[users fa-1x] Used by All Engineers in Rokid, Inc.
+@fa[users fa-1x] Used by All Engineers Every Day in Rokid, Inc.
 
 ---
 
