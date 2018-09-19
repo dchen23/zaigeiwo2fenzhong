@@ -59,11 +59,17 @@
 @transition[slide-in]
 
 @snap[west span-50]
-@fa[android fa-7x fa-spin fa-lime]
 @fa[linux fa-huge]
+@fa[android fa-6x fa-spin fa-lime]
 @snapend
 
 @snap[north-east span-40]
 @quote[Android的功夫，在Android之外。](知乎答主)
 @snapend
+
+---
+
+# @color[orangle](Thank you @-@)
+
+### Q & A
 
