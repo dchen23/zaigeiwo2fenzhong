@@ -32,10 +32,11 @@ Dingyi Chen
 <br><br>
 <h4>@color[orange](Project: Phabricator)<h4>
 @snapend
-**Status:**
+
 @snap[west span-100]
 <br>
 @ul[spaced-list-items](false)
+**Status:**
 - The Benefits of using Docker
   + Easily Setup and Backup
   + Good Scalability
