@@ -168,17 +168,16 @@ protected void onDraw(Canvas canvas) {
 
 @snapend
 
-@snap[north-east span-35]
+@snap[north-east span-30]
 <br>
-@fa[android fa-1x fa-spin fa-lime]
 @quote[Android的功夫，在Android之外。](知乎答主)
-@fa[android fa-1x fa-spin fa-lime]
+
 @snapend
 
 ---
 @transition[slide-in]
 
-# @color[orange](Thank you @o@)
+# @color[orange](Thank you @fa[android fa-1x fa-spin fa-lime]o@)
 
 #### Q & A
 
