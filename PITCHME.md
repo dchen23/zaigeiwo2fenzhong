@@ -38,13 +38,13 @@ Dingyi Chen
 
 ### @color[orange](Phabricator: Comments)
 
-@fa[thumbs-o-up fa-1x] Robust Git Ecos
+@fa[thumbs-up fa-1x] Robust Git Ecos
 
-@fa[thumbs-o-up fa-1x] Review Panel
+@fa[thumbs-up fa-1x] Review Panel
 
 @fa[thumbs-down fa-1x] Manually Backup
 
-@fa[thumbs-o-down fa-1x] Documents to be perfected
+@fa[thumbs-down fa-1x] Documents to be perfected
 
 ---
 
@@ -54,7 +54,7 @@ Dingyi Chen
 
 ---
 
-## @color[orange](Outcome Display @fa[hand-o-right fa-8x fa-orange])
+## @color[orange](Outcome Display @fa[hand-right fa-8x fa-orange])
 
 ---
 
