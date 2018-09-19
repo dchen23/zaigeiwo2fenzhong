@@ -53,7 +53,7 @@ http://gitus.rokid-inc.com/
 
 ## @color[orange](Git Flow)
 
-![GitFlow](http://blog.chucklab.com/img/GitFlow.png)
+![GitFlow](http://lanziani.com/slides/gitflow/images/gitflow_3.png)
 
 ---
 
