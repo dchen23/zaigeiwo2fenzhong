@@ -45,9 +45,9 @@
 
 ---
 
-## Click Me @fa[hand-o-down fa-4x fa-spin fa-lime]
+## @color[orange](Click Me @fa[hand-o-down fa-7x fa-pink])
 
-[codebase@US](http://gitus.rokid-inc.com/diffusion/)
+http://gitus.rokid-inc.com/diffusion/
 
 ---
 
