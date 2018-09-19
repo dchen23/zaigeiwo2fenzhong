@@ -51,6 +51,12 @@ http://gitus.rokid-inc.com/
 
 ---
 
+## @color[orange](Git Flow)
+
+![GitFlow](https://nvie.com/img/git-model@2x.png)
+
+---
+
 @snap[north-west]
 <br><br>
 <h4>@color[orange](The Agenda)<h4>
