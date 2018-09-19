@@ -31,6 +31,7 @@ Dingyi Chen
 ### @color[orange](Phabricator: Status)
 
 @fa[check-square-o fa-1x] Closed
+
 @fa[square-o fa-1x] Under Long Term Maintaince
 
 ---
@@ -38,8 +39,11 @@ Dingyi Chen
 ### @color[orange](Phabricator: Comments)
 
 @fa[thumbs-o-up fa-1x] Robust Git Ecos
+
 @fa[thumbs-o-up fa-1x] Review Panel
+
 @fa[thumbs-o-down fa-1x] Manually Backup
+
 @fa[thumbs-o-down fa-1x] Documents to be perfected
 
 ---
