@@ -163,7 +163,7 @@ protected void onDraw(Canvas canvas) {
 
 ---
 
-@snap[west span-55]
+@snap[west span-60]
 @fa[linux fa-huge]
 
 @snapend
