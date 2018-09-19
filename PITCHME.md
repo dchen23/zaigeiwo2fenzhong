@@ -28,14 +28,14 @@ Dingyi Chen
   
 ---
 
-### @color[orange](Project: Phabricator)
+### @color[orange](Project: Phabricator)<br><br>
 
 @snap[west span-100]
 
 **Status:**
-
+<br>
 @fa[check-square-o fa-1x] Closed
-
+<br>
 @fa[square-o fa-1x] Under Long Term Maintaince
 
 @snapend
