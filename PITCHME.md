@@ -31,9 +31,8 @@ Dingyi Chen
 ### @color[orange](Project: Phabricator)
 
 **Status:**
-- The Benefits of using Docker
-
-- The Benefits of using Phabricator
+@fa[check-square-o fa-1x] Closed
+@fa[square-o fa-1x] Under Long Term Maintaince
 
 
 ---
