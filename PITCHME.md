@@ -155,6 +155,7 @@ protected void onDraw(Canvas canvas) {
 
 ---
 
+### @color[orange](Future Work)
 
 @snap[north-west span-30]
 - System UI
@@ -162,7 +163,7 @@ protected void onDraw(Canvas canvas) {
   - Dialog ... 
 @snapend
 
-@snap[north-midpoint span-30]
+@snap[north-west span-30]
 - System Apps
   - Launcher
   - Settings
