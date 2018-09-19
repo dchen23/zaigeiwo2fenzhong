@@ -37,12 +37,9 @@ Dingyi Chen
 <br>
 @ul[spaced-list-items](false)
 **Status:**
-- The Benefits of using Docker
-  + Easily Setup and Backup
-  + Good Scalability
-- The Benefits of using Phabricator
-  + Pre-Commit *Code Review*
-  + Robust **Git**, Mercurial, and SVN System
+  - The Benefits of using Docker
+
+  - The Benefits of using Phabricator
 @ulend
 @snapend
 
