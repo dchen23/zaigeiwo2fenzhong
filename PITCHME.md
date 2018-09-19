@@ -53,7 +53,7 @@ http://gitus.rokid-inc.com/
 
 ## @color[orange](Git Flow)
 
-![GitFlow](archive/img/git-flow/git-flow-hotfix.svg)
+![GitFlow](https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg?cdnVersion=jx)
 
 ---
 
