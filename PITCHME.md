@@ -50,7 +50,7 @@ Dingyi Chen
 
 @snapend
 
-@snap[east span-50]
+@snap[west span-50]
 
 **Comments:**
 <br>
