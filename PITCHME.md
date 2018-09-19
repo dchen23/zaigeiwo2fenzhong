@@ -54,6 +54,34 @@ Dingyi Chen
 
 ---
 
+### @color[orange](Launcher: Status)
+
+@fa[check-square-o fa-1x] Phase #1 Based on Old UI
+
+@fa[square-o fa-1x] Adapt to New UI
+
+@fa[square-o fa-1x] Product Fuctions
+
+---
+
+### @color[orange](Launcher: Comments)
+
+@fa[thumbs-up fa-1x] Less Compatible Problems
+
+@fa[thumbs-up fa-1x] Bug-free on Runtime
+
+@fa[thumbs-up fa-1x] Low Energy Consumption
+
+@fa[thumbs-o-down fa-1x] Hard to Impelement New Feature
+
+---
+
+### @color[orange](Launcher: impact)
+
+@fa[users fa-1x] **[FUTURE]** Used by All Engineers in Rokid, Inc. Every Day.
+
+---
+
 ## @color[orange](Outcome Display @fa[hand-o-right fa-8x fa-orange])
 
 ---
