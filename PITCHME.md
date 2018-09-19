@@ -49,7 +49,8 @@ Dingyi Chen
 
 ---
 
-### @color[orange]([Phabricator](http://gitus.rokid-inc.com/))
+### [Phabricator](http://gitus.rokid-inc.com/)
+![ph](archive/img/screenshot/ph.png)
 
 ---
 
