@@ -49,9 +49,7 @@ Dingyi Chen
 
 ---
 
-### @color[orange](Click Me @fa[hand-o-down fa-6x fa-orange])
-
-http://gitus.rokid-inc.com/
+### @color[orange]([Phabricator](http://gitus.rokid-inc.com/))
 
 ---
 
