@@ -69,7 +69,7 @@
 ---
 @transition[slide-in]
 
-# @color[orange](Thank you @-@)
+## @color[orange](Thank you @-@)
 
 ### Q & A
 
