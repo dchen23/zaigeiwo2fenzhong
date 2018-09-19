@@ -19,7 +19,7 @@ Dingyi Chen
 <br><br>
 @ul[circles]
 - Codebase Setting Up:
-    size[1em]Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow.
+    @size[1em]Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow.
 
 - Rokid Glass Launcher:
     Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.
