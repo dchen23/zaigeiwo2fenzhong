@@ -16,6 +16,7 @@
 @snapend
 
 @snap[west span-100]
+<br><br>
 @ul[circles]
 - Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow. 
 - Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.
