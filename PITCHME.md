@@ -170,14 +170,14 @@ protected void onDraw(Canvas canvas) {
 
 @snap[north-east span-30]
 <br><br><br>
-@quote[Android的功夫，在Android之外。](知乎答主@fa[android fa-1x fa-spin fa-lime])
+@quote[Android的功夫，在Android之外。](知乎答主)
 
 @snapend
 
 ---
 @transition[slide-in]
 
-# @color[orange](@fa[android fa-1x fa-spin fa-lime]Thank you @fa[android fa-1x fa-spin fa-lime])
+## @color[orange](@fa[android fa-1x fa-spin fa-lime]Thank you @fa[android fa-1x fa-spin fa-lime])
 
 #### Q & A
 
