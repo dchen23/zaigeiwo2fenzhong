@@ -72,13 +72,35 @@ Dingyi Chen
 
 @fa[thumbs-up fa-1x] Low Energy Consumption
 
-@fa[thumbs-o-down fa-1x] Hard to Impelement New Feature
+@fa[thumbs-o-down fa-1x] Hard to Implement New Features
 
 ---
 
 ### @color[orange](Launcher: impact)
 
-@fa[users fa-1x] **[FUTURE]** Used by All Engineers in Rokid, Inc. Every Day.
+@fa[users fa-1x] **[FUTURE]** Home APP for all developers and testers, also the most basic APP for Users.
+
+---
+
+### @color[orange](System UI: Status)
+
+@fa[check-square-o fa-1x] Achieve APP Level UI Fuction
+
+@fa[square-o fa-1x] Merge Into Frameworks
+
+@fa[square-o fa-1x] Find out All Scenes
+
+---
+
+### @color[orange](System UI: Comments)
+
+@fa[thumbs-o-down fa-1x] Framework Development Issue
+
+---
+
+### @color[orange](System UI: impact)
+
+@fa[users fa-1x] **[FUTURE]** Handle All the Dialog and Notification Raised Up by Android System, Including NONO's Bluetooth Connection Pop-up Issue
 
 ---
 
