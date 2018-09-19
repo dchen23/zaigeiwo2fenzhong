@@ -69,7 +69,7 @@
 
 ---
 
-# @color[orangle](Thank you @-@)
+# @color[orange](Thank you @-@)
 
 ### Q & A
 
