@@ -34,16 +34,31 @@ Dingyi Chen
 @snapend
 
 
-@snap[west span-100]
+@snap[west span-50]
 
 **Status:**
 <br>
 @fa[check-square-o fa-0.8x] @size[0.8em](Closed)
 <br>
-@fa[square-o fa-0.8x] @size[0.8em](Under Long Term Maintaince)
+@fa[square-o fa-0.8x] @size[0.8em]( Under Long Term Maintaince)
+<br><br>
+**Comments:**
+<br>
+@fa[check-square-o fa-0.8x] @size[0.8em](Closed)
+<br>
+@fa[square-o fa-0.8x] @size[0.8em]( Under Long Term Maintaince)
 
 @snapend
 
+@snap[east span-50]
+
+**Comments:**
+<br>
+@fa[check-square-o fa-0.8x] @size[0.8em](Closed)
+<br>
+@fa[square-o fa-0.8x] @size[0.8em]( Under Long Term Maintaince)
+
+@snapend
 
 ---
 
