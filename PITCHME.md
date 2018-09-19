@@ -54,7 +54,7 @@ Dingyi Chen
 
 ---
 
-## @color[orange](Outcome Display @fa[hand-right fa-8x fa-orange])
+## @color[orange](Outcome Display @fa[hand-o-right fa-8x fa-orange])
 
 ---
 
