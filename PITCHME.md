@@ -18,11 +18,11 @@ Dingyi Chen
 @snap[west span-100]
 <br><br>
 @ol[](false)
-- Codebase Setting Up:<br>@size[0.5em](Setting Phabricator up and run by using docker, as well as introducing development specifaction from git workflow.)
+- Phabricator:<br>@size[0.5em](Setting Phabricator up and run by using docker, as well as introducing development specifaction from git workflow.)
 
-- Rokid Glass Launcher:<br>@size[0.5em](Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.)
+- Launcher:<br>@size[0.5em](Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.)
 
-- System Ui Development:<br>@size[0.5em](Starting the development of systemn UI, such as <i>Dialog<i>, <i>Notification<i>, etc. )
+- System UI:<br>@size[0.5em](Starting the development of systemn UI, such as <i>Dialog<i>, <i>Notification<i>, etc. )
 @olend
 @snapend
   
@@ -53,14 +53,14 @@ Dingyi Chen
 ![ph](archive/img/screenshot/ph.png)
 
 ---
-### Dialog UI
-![Cartoon](https://raw.githubusercontent.com/dchen23/zaigeiwo2fenzhong/master/archive/img/demo/dialog.mp4)
-
----
 
 ### @color[orange](Git Flow)
 
 <img src="https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg" width="640">
+
+---
+### @color[orange](Dialog UI)
+![Cartoon](https://raw.githubusercontent.com/dchen23/zaigeiwo2fenzhong/master/archive/img/demo/dialog.mp4)
 
 ---
 
