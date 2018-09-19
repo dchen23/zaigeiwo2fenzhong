@@ -47,7 +47,7 @@
 
 ## @color[orange](Click Me @fa[hand-o-down fa-7x fa-pink])
 
-http://gitus.rokid-inc.com/diffusion/
+http://gitus.rokid-inc.com/
 
 ---
 
