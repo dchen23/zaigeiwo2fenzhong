@@ -172,6 +172,7 @@ protected void onDraw(Canvas canvas) {
 <br>
 @fa[android fa-1x fa-spin fa-lime]
 @quote[Android的功夫，在Android之外。](知乎答主)
+@fa[android fa-1x fa-spin fa-lime]
 @snapend
 
 ---
