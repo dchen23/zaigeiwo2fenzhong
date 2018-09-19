@@ -143,7 +143,7 @@ Dingyi Chen
 
 ---
 
-## @color[orange](Self Review @fa[stethoscope fa-8x fa-orange])
+## @color[orange](Self Review @fa[heartbeat fa-8x fa-orange])
 
 ---
 
