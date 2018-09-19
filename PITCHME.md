@@ -16,9 +16,10 @@
 @snapend
 
 @snap[west span-100]
-@ul[](false)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+@ul[circles]
+- Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow. 
+- Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.
+- Starting the development of systemn UI, such as <i>Dialog<i>, <i>Notification<i>, etc. 
 @ulend
 @snapend
 
