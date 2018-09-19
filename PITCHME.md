@@ -33,12 +33,12 @@
 
 @snap[west span-100]
 @ul[spaced-list-items]
-- First Top-Level Item
-  + Plain text list item
-  + Link [within](https://gitpitch.com) list item
-- Second Top-Level Item
-  + Another plain text list item
-  + Rich **markdown** list *item*
+- The Benefits of using Docker
+  + Easily Setup and Backup
+  + Good Scalability
+- The Benefits of using Phabricator
+  + Pre-Commit *Code Review*
+  + Robust **Git**, Mercurial, and SVN System
 @ulend
 @snapend
 
