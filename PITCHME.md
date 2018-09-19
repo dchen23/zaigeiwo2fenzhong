@@ -58,11 +58,12 @@
 ---
 @transition[slide-in]
 
-@snap[west span-60]
+@snap[west span-50]
 @fa[android fa-7x fa-spin fa-lime]
 @fa[linux fa-huge]
 @snapend
 
+@snap[north-west span-40]
 @quote[Android的功夫，在Android之外](知乎答主)
 
 
