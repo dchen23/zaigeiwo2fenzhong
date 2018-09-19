@@ -28,11 +28,25 @@ Dingyi Chen
   
 ---
 
-#### Phabricator: Status
+### color[orange](Phabricator: Status)
 
-@fa[check-square-o fa-0.8x] @size[0.8em](Closed)
+@fa[check-square-o fa-1x] Closed
+@fa[square-o fa-1x] Under Long Term Maintaince
 
-@fa[square-o fa-0.8x] @size[0.8em]( Under Long Term Maintaince)
+---
+
+### color[orange](Phabricator: Comments)
+
+@fa[thumbs-o-up fa-1x] Robust Git Ecos
+@fa[thumbs-o-up fa-1x] Review Panel
+@fa[thumbs-o-down fa-1x] Manually Backup
+@fa[thumbs-o-down fa-1x] Documents to be perfected
+
+---
+
+### color[orange](Phabricator: impact)
+
+@fa[users fa-1x] Used by All Engineers in Rokid, Inc.
 
 ---
 
