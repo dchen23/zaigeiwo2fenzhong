@@ -63,10 +63,6 @@
 @fa[linux fa-huge]
 @snapend
 
-@quote[It's what I do that defines me.](Bruce Wayne)
-
----
-
-@quote[Beware of geeks bearing formulas.]
+@quote[Android的功夫，在Android之外](知乎答主)
 
 
