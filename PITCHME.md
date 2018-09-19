@@ -121,7 +121,7 @@ Dingyi Chen
 
 @snap[north-west]
 <br><br>
-<h4>@color[orange](System UI Developing Pattern)<h4>
+<h3>@color[orange](System UI Developing Pattern)<h3>
 @snapend
 
 @snap[west span-100]
