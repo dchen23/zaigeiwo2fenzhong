@@ -207,7 +207,7 @@ for (int i = startIndex; i != endIndex; i += delta) {
 
 ---
 
-### @color[orange](example)
+### @color[orange](Case Study)
 
 ``` java
 @Override
