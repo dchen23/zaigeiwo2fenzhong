@@ -38,9 +38,9 @@ Dingyi Chen
 
 **Status:**
 <br>
-@fa[check-square-o fa-1x] Closed
+@fa[check-square-o fa-0.8x] @size[0.8em](Closed)
 <br>
-@fa[square-o fa-1x] Under Long Term Maintaince
+@fa[square-o fa-0.8x] @size[0.8em](Under Long Term Maintaince)
 
 @snapend
 
