@@ -28,37 +28,11 @@ Dingyi Chen
   
 ---
 
-@snap[north-west]
-<br><br>
-<h4>@color[orange](Project: Phabricator)<h4>
-@snapend
+#### Phabricator: Status
 
-
-@snap[west span-50]
-
-**Status:**
-<br>
 @fa[check-square-o fa-0.8x] @size[0.8em](Closed)
-<br>
+
 @fa[square-o fa-0.8x] @size[0.8em]( Under Long Term Maintaince)
-<br><br>
-**Comments:**
-<br>
-@fa[check-square-o fa-0.8x] @size[0.8em](Closed)
-<br>
-@fa[square-o fa-0.8x] @size[0.8em]( Under Long Term Maintaince)
-
-@snapend
-
-@snap[west span+50]
-
-**Comments:**
-<br>
-@fa[check-square-o fa-0.8x] @size[0.8em](Closed)
-<br>
-@fa[square-o fa-0.8x] @size[0.8em]( Under Long Term Maintaince)
-
-@snapend
 
 ---
 
