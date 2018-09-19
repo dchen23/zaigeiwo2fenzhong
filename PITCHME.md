@@ -170,7 +170,7 @@ protected void onDraw(Canvas canvas) {
 
 @snap[north-east span-35]
 <br>
-@fa[android fa-2x fa-spin fa-lime]
+@fa[android fa-1x fa-spin fa-lime]
 @quote[Android的功夫，在Android之外。](知乎答主)
 @snapend
 
