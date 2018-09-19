@@ -48,7 +48,7 @@ Dingyi Chen
 
 ---
 
-### @color[orange](Phabricator: impact)
+### @color[orange](Phabricator: Impact)
 
 @fa[users fa-1x] Used by All Engineers in Rokid, Inc. Every Day.
 
@@ -76,7 +76,7 @@ Dingyi Chen
 
 ---
 
-### @color[orange](Launcher: impact)
+### @color[orange](Launcher: Impact)
 
 @fa[users fa-1x] **[FUTURE]** Home APP for all developers and testers, also the most basic APP for Users.
 
@@ -98,9 +98,9 @@ Dingyi Chen
 
 ---
 
-### @color[orange](System UI: impact)
+### @color[orange](System UI: Impact)
 
-@fa[users fa-1x] **[FUTURE]** Handle All the Dialog and Notification Raised Up by Android System, Including NONO's Bluetooth Connection Pop-up Issue
+@fa[users fa-1x] **[FUTURE]** Handle All the Dialogs and Notifications Raised Up by Android System, Including NONO's Bluetooth Connection Pop-up Issue
 
 ---
 
@@ -116,10 +116,6 @@ Dingyi Chen
 ### @color[orange](Git Flow)
 
 <img src="https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg" width="640">
-
----
-### @color[orange](Dialog UI)
-![Cartoon](https://raw.githubusercontent.com/dchen23/zaigeiwo2fenzhong/master/archive/img/demo/dialog.mp4)
 
 ---
 
@@ -139,6 +135,11 @@ Dingyi Chen
 @olend
 <br><br>
 @snapend
+
+---
+
+### @color[orange](Dialog UI)
+![Cartoon](https://raw.githubusercontent.com/dchen23/zaigeiwo2fenzhong/master/archive/img/demo/dialog.mp4)
 
 ---
 
