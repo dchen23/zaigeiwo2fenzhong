@@ -45,13 +45,13 @@ Dingyi Chen
 
 ---
 
-## @color[orange](Click Me @fa[hand-o-down fa-7x fa-pink])
+### @color[orange](Click Me @fa[hand-o-down fa-7x fa-pink])
 
 http://gitus.rokid-inc.com/
 
 ---
 
-## @color[orange](Git Flow)
+### @color[orange](Git Flow)
 
 <img src="https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg" width="640">
 
