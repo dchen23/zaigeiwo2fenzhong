@@ -94,17 +94,16 @@ http://gitus.rokid-inc.com/
 
 - System UI
   - Notification
-  - Dialog ...
+  - Dialog ... |
 - System Apps
   - Launcher
   - Settings
     - Bluetooth
     - Wifi 
-    - cast ...
+    - cast ... |
 - ~DevOps~
   - CI system
-  - Slack Integration
-
+  - Slack Integration |
 
 ---
 
