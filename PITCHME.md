@@ -93,6 +93,8 @@ com
                 └── PageIndicatorDotsRokid.java
 ```
 
+@[6-7](implement battery view)
+
 ---
 ### @color[orange](example)
 
