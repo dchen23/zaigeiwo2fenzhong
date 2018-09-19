@@ -53,13 +53,13 @@ http://gitus.rokid-inc.com/
 
 ## @color[orange](Git Flow)
 
-![GitFlow](http://lanziani.com/slides/gitflow/images/gitflow_3.png)
+![GitFlow](archive/img/git-flow/git-flow-hotfix.svg)
 
 ---
 
 @snap[north-west]
 <br><br>
-<h4>@color[orange](How to develop System UI)<h4>
+<h4>@color[orange](System UI Developing Pattern)<h4>
 @snapend
 
 @snap[west span-100]
