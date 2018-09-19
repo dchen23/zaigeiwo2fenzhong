@@ -155,7 +155,6 @@ protected void onDraw(Canvas canvas) {
 
 ---
 
-### @color[orange](Future Work)
 
 @snap[north-west span-30]
 - System UI
