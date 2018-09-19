@@ -155,28 +155,28 @@ protected void onDraw(Canvas canvas) {
 
 ---
 
-### @color[orange](example)
-
-1. jiba | 
-1. jiba |
-1. jiba |
-
----
-
 ### @color[orange](Future Work)
 
+@snap[north-west span-30]
 - System UI
   - Notification
-  - Dialog ... |
+  - Dialog ... 
+@snapend
+
+@snap[north-midpoint span-30]
 - System Apps
   - Launcher
   - Settings
     - Bluetooth
     - Wifi 
-    - cast ... |
-- ~DevOps~
+    - cast ...
+@snapend
+
+@snap[north-east span-30]
+- DevOps
   - CI system
-  - Slack Integration |
+  - Slack Integration
+@snapend
 
 ---
 
