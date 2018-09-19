@@ -201,7 +201,9 @@ for (int i = startIndex; i != endIndex; i += delta) {
         mPageScrolls[i] = childLeft - getViewportWidth() / 2 + childWidth / 2 - offsetX;
 ```
 
-@[1,5](implement battery view)
+@[1](Move all apps to middle of the screen)
+
+@[25](Move all apps to middle of the screen)
 
 ---
 
@@ -209,58 +211,19 @@ for (int i = startIndex; i != endIndex; i += delta) {
 
 ``` java
 @Override
-protected void onDraw(Canvas canvas) {
-    super.onDraw(canvas);
-    canvas.setDrawFilter(mDrawFilter);
+    public void setInsets(Rect insets) {
+        mInsets.set(insets);
+        mInsets.set(new Rect(700, 150, 700, 150));
 
-    anodeRectF.set(mWidth / 2 - anodeWidth / 2, 0,
-            mWidth / 2 + anodeWidth / 2, anodeHeight);
-    anodeBottomRectF.set(anodeRectF.left, anodeRectF.bottom - anodeRadius,
-            anodeRectF.right, anodeRectF.bottom);
-
-    shellRectF.set(shellStroke / 2, shellStroke / 2 + anodeHeight,
-            mWidth - shellStroke / 2, mHeight - shellStroke / 2);
-
-    backgroundRectF.set(shellStroke + powerPadding,
-            anodeHeight + shellStroke + powerPadding,
-            mWidth - shellStroke - powerPadding,
-            mHeight - shellStroke - powerPadding);
-
-    float lightnRatio = (float) lightning.getMinimumHeight() / lightning.getMinimumWidth();
-    float iconRatio = 0.6f;
-    float lightnOffsetWidth = (mWidth - shellStroke * 2 - powerPadding * 2 ) * (1 - iconRatio) / 2;
-    float lightnOffsetHeight = ((mHeight - shellStroke * 2 - powerPadding * 2) -
-            (mWidth - shellStroke * 2 - powerPadding * 2 ) * (iconRatio + .2f) * lightnRatio) / 2;
-    lightningRect.set(shellStroke + powerPadding + (int)lightnOffsetWidth,
-            anodeHeight + shellStroke + powerPadding + (int)lightnOffsetHeight,
-            mWidth - shellStroke - powerPadding - (int)lightnOffsetWidth,
-            mHeight - shellStroke - powerPadding - (int)lightnOffsetHeight);
-
-    float topOffset = (mHeight - anodeHeight - powerPadding * 2 - shellStroke) *
-            (MAX_LEVEL - powerLevel) / MAX_LEVEL;
-    powerRectF.set(shellStroke + powerPadding,
-            anodeHeight + shellStroke + powerPadding + topOffset,
-            mWidth - shellStroke - powerPadding,
-            mHeight - shellStroke - powerPadding);
-
-    shellPaint.setStyle(Paint.Style.FILL);
-    canvas.drawRoundRect(anodeRectF, anodeRadius, anodeRadius, shellPaint);
-    canvas.drawRect(anodeBottomRectF, shellPaint);
-
-    shellPaint.setStyle(Paint.Style.STROKE);
-    canvas.drawRoundRect(shellRectF, shellRadius, shellRadius, shellPaint);
-
-    // Drawing background of power.
-    canvas.drawRect(backgroundRectF, backgroundPaint);
-
-    canvas.drawRect(powerRectF, powerPaint);
-
-    if (mIsCharging) {
-        lightning.setBounds(lightningRect);
-        lightning.draw(canvas);
-    }
-}
+        CellLayout customScreen = getScreenWithId(CUSTOM_CONTENT_SCREEN_ID);
+        if (customScreen != null) {
+            View customContent = customScreen.getShortcutsAndWidgets().getChildAt(0);
+            if (customContent instanceof Insettable) {
+                ((Insettable) customContent).setInsets(mInsets);
+            }
+        }
 ```
+@[4](Clip the child View inside of parent View)
 
 ---
 
