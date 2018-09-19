@@ -17,15 +17,15 @@ Dingyi Chen
 
 @snap[west span-100]
 <br><br>
-@ul[circles]
+@ul[circles](false)
 - Codebase Setting Up:
-    @size[0.5em](Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow.)
+  - @size[0.7em](Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow.)
 
 - Rokid Glass Launcher:
-    Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.
+  - @size[0.7em](Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.)
 
 - System Ui Development:
-    Starting the development of systemn UI, such as <i>Dialog<i>, <i>Notification<i>, etc. 
+  - @size[0.7em](Starting the development of systemn UI, such as <i>Dialog<i>, <i>Notification<i>, etc. )
 @ulend
 @snapend
   
