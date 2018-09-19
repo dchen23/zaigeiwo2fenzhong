@@ -45,7 +45,7 @@ Dingyi Chen
 
 ---
 
-### @color[orange](Click Me @fa[hand-o-down fa-7x fa-pink])
+### @color[orange](Click Me @fa[hand-o-down fa-7x fa-orange])
 
 http://gitus.rokid-inc.com/
 
@@ -165,18 +165,18 @@ protected void onDraw(Canvas canvas) {
 
 @snap[west span-55]
 @fa[linux fa-huge]
-@fa[android fa-4x fa-spin fa-lime]
+
 @snapend
 
 @snap[north-east span-35]
 <br>
-@quote[Android的功夫，在Android之外。](知乎答主)
+@quote[Android的功夫，在Android之外。@fa[android fa-2x fa-spin fa-lime]](知乎答主)
 @snapend
 
 ---
 @transition[slide-in]
 
-## @color[orange](Thank you @-@)
+# @color[orange](Thank you @o@)
 
-### Q & A
+#### Q & A
 
