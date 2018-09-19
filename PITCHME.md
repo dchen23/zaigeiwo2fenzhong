@@ -1,26 +1,31 @@
 @snap[north-west]
 <br><br><br><br>
-<h2>@color[orange](Rokid Group Sharing)<h2>
+<h2>@color[orange](Personal Performence Review)<h2>
 @snapend
 
 @snap[west]
 <br><br>
-<i>Dingyi Chen<i>
+Dingyi Chen
 @snapend
 
 ---
 
 @snap[north-west]
 <br><br>
-<h4>@color[orange](Outline)<h4>
+<h4>@color[orange](Involved Poejects)<h4>
 @snapend
 
 @snap[west span-100]
 <br><br>
 @ul[circles]
-- Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow. 
-- Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.
-- Starting the development of systemn UI, such as <i>Dialog<i>, <i>Notification<i>, etc. 
+- Codebase Setting Up:
+    size[1em]Setting Phabricator up and run by using docker. as well as introducing development specifaction which using git workflow.
+
+- Rokid Glass Launcher:
+    Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.
+
+- System Ui Development:
+    Starting the development of systemn UI, such as <i>Dialog<i>, <i>Notification<i>, etc. 
 @ulend
 @snapend
   
