@@ -31,6 +31,7 @@
 <h4>@color[orange](CodeBase@US)<h4>
 @snapend
 
+@snap[west span-100]
 @ul[spaced-list-items]
 - First Top-Level Item
   + Plain text list item
@@ -39,6 +40,7 @@
   + Another plain text list item
   + Rich **markdown** list *item*
 @ulend
+@snapend
 
 
 ---
