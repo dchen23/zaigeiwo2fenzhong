@@ -50,7 +50,7 @@ Dingyi Chen
 
 ### @color[orange](Phabricator: impact)
 
-@fa[users fa-1x] Used by All Engineers Every Day in Rokid, Inc.
+@fa[users fa-1x] Used by All Engineers in Rokid, Inc. Every Day.
 
 ---
 
