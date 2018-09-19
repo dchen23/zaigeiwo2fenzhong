@@ -64,10 +64,10 @@ http://gitus.rokid-inc.com/
 
 @snap[west span-100]
 <br>
-@ol[roman](true)
+@ol[roman](false)
 - Riview Design UI
 - Locate Source Code
-- Add new API or Modify Current Implementation
+- Add or Modify API
 - Change Layout and Logic
 - Release for testing
 @olend
