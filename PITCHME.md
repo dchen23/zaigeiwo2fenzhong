@@ -59,7 +59,7 @@ http://gitus.rokid-inc.com/
 
 @snap[north-west]
 <br><br>
-<h4>@color[orange](The Agenda)<h4>
+<h4>@color[orange](Glass Launcher)<h4>
 @snapend
 
 @snap[west span-60]
@@ -87,6 +87,11 @@ http://gitus.rokid-inc.com/
 1. jiba | 
 1. jiba |
 1. jiba |
+
+---
+
+## @color[orange](Future Work)
+
 
 ---
 
