@@ -59,15 +59,16 @@ http://gitus.rokid-inc.com/
 
 @snap[north-west]
 <br><br>
-<h4>@color[orange](Glass Launcher)<h4>
+<h4>@color[orange](How to develop System UI)<h4>
 @snapend
 
 @snap[west span-60]
-@ol[](false)
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor
-- Ut enim ad minim veniam
+@ol[roman](true)
+- Riview Design UI
+- Locate Source Code
+- Add new API or Modify currnt Implementation
+- Change Layout and Logic
+- Release for testing
 @olend
 <br><br>
 @snapend
