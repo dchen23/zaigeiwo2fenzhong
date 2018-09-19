@@ -62,7 +62,8 @@ http://gitus.rokid-inc.com/
 <h4>@color[orange](How to develop System UI)<h4>
 @snapend
 
-@snap[west span-60]
+@snap[west span-100]
+<br>
 @ol[roman](true)
 - Riview Design UI
 - Locate Source Code
