@@ -174,21 +174,34 @@ Dingyi Chen
 ### @color[orange](Case Study)
 
 ```
-com
-└── rokid
-    └── glass
-        └── launcher
-            ├── InsettableLinearLayout.java
-            ├── ObservableBattery.java
-            ├── RokidBatteryView.java
-            ├── RokidGlassLauncher.java
-            ├── RokidWifiView.java
-            ├── Utilities.java
-            └── pageindicators
-                └── PageIndicatorDotsRokid.java
+int childLeft = offsetX;
+if (mPageScrolls == null || childCount != mChildCountOnLastLayout) {
+    mPageScrolls = new int[childCount];
+}
+
+for (int i = startIndex; i != endIndex; i += delta) {
+    final View child = getPageAt(i);
+    if (child.getVisibility() != View.GONE) {
+        lp = (LayoutParams) child.getLayoutParams();
+        int childTop;
+        if (lp.isFullScreenPage) {
+            childTop = offsetY;
+        } else {
+            childTop = offsetY + getPaddingTop() + mInsets.top;
+            childTop += (getViewportHeight() - mInsets.top - mInsets.bottom - verticalPadding - child.getMeasuredHeight()) / 2;
+        }
+
+        final int childWidth = child.getMeasuredWidth();
+        final int childHeight = child.getMeasuredHeight();
+        childTop = offsetY + getViewportHeight() - child
+        if (DEBUG) Log.d(TAG, "\tlayout-child" + i + ": " + childLeft + ", " + childTop);
+        child.layout(childLeft, childTop,
+                childLeft + child.getMeasuredWidth(), childTop + childHeight);
+
+        mPageScrolls[i] = childLeft - getViewportWidth() / 2 + childWidth / 2 - offsetX;
 ```
 
-@[6-7](implement battery view)
+@[1,5](implement battery view)
 
 ---
 
