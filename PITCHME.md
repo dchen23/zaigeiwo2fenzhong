@@ -17,7 +17,7 @@ Dingyi Chen
 
 @snap[west span-100]
 <br><br>
-@ol(false)
+@ol[](false)
 - Codebase Setting Up:<br>@size[0.5em](Setting Phabricator up and run by using docker, as well as introducing development specifaction from git workflow.)
 
 - Rokid Glass Launcher:<br>@size[0.5em](Implementing Rokid Glass Laucher systemn UI and refactoring into native launcher3 APP.)
