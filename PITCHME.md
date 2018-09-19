@@ -235,30 +235,27 @@ protected void onDraw(Canvas canvas) {
 
 ---
 
-### @color[orange](Future Work)
+### @color[orange](Future Work: System UI)
 
-- System UI
-  - Notification	
-  - Dialog ...
-
----
-
-### @color[orange](Future Work)
-
-- System Apps
-  - Launcher	
-  - Settings	
-    - Bluetooth	
-    - Wifi 	
-    - cast ...	
+- Notification	
+- Dialog ...
 
 ---
 
-### @color[orange](Future Work)
+### @color[orange](Future Work: System Apps)
 
-- DevOps
-  - CI system	
-  - Slack Integration	
+- Launcher	
+- Settings	
+  - Bluetooth	
+  - Wifi 	
+  - cast ...	
+
+---
+
+### @color[orange](Future Work: DevOps)
+
+- CI system	
+- Slack Integration	
 
 ---
 
