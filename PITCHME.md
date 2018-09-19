@@ -31,7 +31,9 @@ Dingyi Chen
 ### @color[orange](Project: Phabricator)
 
 **Status:**
+
 @fa[check-square-o fa-1x] Closed
+
 @fa[square-o fa-1x] Under Long Term Maintaince
 
 
